@@ -47,7 +47,6 @@ endmodule
 ```
 Developed by:E ARYA KRISHNA  RegisterNumber:25016837
 
-*/
 
 **RTL LOGIC FOR SISO Shift Register**
 <img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/b33ab699-1d19-44f1-9019-a7cb137c043e" />
